@@ -18,12 +18,12 @@ Floors have button options to go different directions.
 
 
 To be able to try the program, you need:
-Javascript/Js.node
+Python
 Visual Studio Code
 
 To use the program, you need to type:
-In git bash/ Powershell
-Type: jest
+In Powershell or CMD
+Type: pytest
 ## Example
-//////in gitbash terminal/////
-jest
+//////in powershell terminal/////
+pytest
